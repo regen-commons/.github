@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Regen Commons community forum
+    url: https://hub.regencoordination.xyz/c/regen-commons/33
+    about: Discuss community questions, shared resources, and collaborations.
+  - name: Private security reporting
+    url: https://github.com/regen-commons/.github/blob/main/SECURITY.md
+    about: Read this before sharing vulnerability details.
+  - name: Membership and general support
+    url: https://github.com/regen-commons/.github/blob/main/SUPPORT.md
+    about: Find the right route for membership, partnerships, or project help.

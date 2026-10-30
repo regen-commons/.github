@@ -1,49 +1,17 @@
-# Security Policy
+# Reporting a security vulnerability
 
-## Overview
+Please report vulnerabilities privately so maintainers can assess them without exposing people or systems to further risk.
 
-The Greenpill Dev Guild is dedicated to maintaining the security and privacy of our projects and user data. This document outlines our security practices and provides guidance on how to report potential vulnerabilities. We encourage everyone to responsibly disclose security vulnerabilities to help us protect our projects and our community.
+## Where to report
 
-## Supported Versions
+1. Check the affected repository's own security policy for a project-specific contact.
+2. If the repository offers **Report a vulnerability** in its GitHub security area, use that private reporting form. Availability depends on the repository's settings; see [GitHub's reporting guide](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/report-privately).
+3. Otherwise, email [regencommons@gmail.com](mailto:regencommons@gmail.com) with the repository name and a request to connect privately with its maintainer. This is the public general contact address, so start with a brief description and agree on a suitable channel before sending sensitive details.
 
-We currently support the latest major and minor versions of each project unless otherwise specified. For unsupported versions, security updates may not be provided.
+Do not put exploit details, credentials, or personal data in a public issue. Once a private channel is established, include the affected version or commit, likely impact, and safe reproduction steps. Use test data where possible.
 
-| Project          | Supported Version | End-of-Life Policy |
-| ---------------- | ----------------- | ------------------- |
-| Green Goods  | Latest Version   | N/A for legacy versions, patches for critical issues only |
-| Impact Reef  | Latest Version   | N/A for legacy versions, patches for critical issues only |
-| Allo Yeeter | Latest Version   | N/A for legacy versions, patches for critical issues only |
-| GreenWill  | Latest Version   | N/A for legacy versions, patches for critical issues only |
-| Greenpill Commons  | Latest Version   | N/A for legacy versions, patches for critical issues only |
+## Scope and follow-up
 
-## Reporting a Vulnerability
+Each project documents its own supported releases and maintenance status. This shared policy does not promise support for every version, a response deadline, or a security bounty.
 
-If you identify a potential security vulnerability in any of our repositories, please follow these steps:
-
-1. **Contact**: Email the issue details to our security team at [security@greenpill.builders].
-   - Include a detailed description of the vulnerability, the affected component(s), and the potential impact.
-   - Provide steps to reproduce the issue if possible.
-
-2. **Acknowledgment**: We will acknowledge receipt of your report within 3 business days and begin assessing the report.
-
-3. **Investigation and Remediation**: We aim to address valid security issues promptly and will keep you updated on our investigation status.
-   - Critical issues will receive immediate attention, while minor vulnerabilities will be addressed in due course.
-
-4. **Responsible Disclosure**: We request that you give us a reasonable time to address the issue before disclosing it publicly.
-
-## Security Measures and Best Practices
-
-We implement the following security practices:
-
-- **Access Control**: We enforce strict access control measures to ensure only authorized contributors can modify critical repositories.
-- **Dependencies Management**: We regularly update dependencies and run automated vulnerability scans on dependencies.
-- **Code Review**: Code changes undergo peer review to identify potential vulnerabilities before merging into main branches.
-- **Continuous Monitoring**: We utilize GitHub security tools (e.g., Dependabot, Code Scanning) to monitor for potential vulnerabilities.
-
-## Contact and Resources
-
-If you have questions about this policy or need further information:
-
-- **Security Team Contact**: [security@greenpill.builders]
-- **Repository Bounty Guidelines**: Refer to the [Greenpill Dev Guild bounty guidelines](https://app.charmverse.io/greenpill-dev-guild/bounty-guide-7922917475786406) for additional context on responsible development practices.
-
+Coordinate disclosure with the affected maintainers so they can investigate and discuss remediation. Keep testing within systems and data you are authorized to access.
