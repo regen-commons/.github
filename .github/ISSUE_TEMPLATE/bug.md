@@ -1,38 +1,25 @@
 ---
-name: Bug
-about: Create a report to help us improve
-title: "[BUG]"
-labels: bug
+name: Bug report
+about: Report something that is not working as expected
+title: "[Bug] "
+labels: ''
 assignees: ''
-
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!-- For vulnerabilities, follow https://github.com/regen-commons/.github/blob/main/SECURITY.md instead. Remove secrets and personal data from all examples. -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## What happened?
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+Describe the problem and who it affects.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## How to reproduce
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+List the steps and the page, feature, or command involved.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## Expected result
 
-**Additional context**
-Add any other context about the problem here.
+What did you expect to happen?
+
+## Environment and evidence
+
+Include the version or commit, browser or runtime, and relevant logs or screenshots. Use test data.

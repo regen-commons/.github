@@ -1,27 +1,23 @@
 ---
 name: Design
-about: Suggest an idea for this project
-title: "[DESIGN]"
-labels: design
+about: Improve an experience, interaction, or communication
+title: "[Design] "
+labels: ''
 assignees: ''
-
 ---
 
-### Done State
+## People and need
 
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
+Who is this for? What should they be able to understand or do?
 
-### Design Requirements
+## Proposed approach
 
-- Designs align with branding of project
-- Components created, organized and optimized for export
-- Screen layouted in a clear and easy to navigate manner
+Describe the experience and link any shareable sketches or references.
 
-### Resources
+## Constraints
 
-- [Project Figma]()
-- [Project Miro Board]()
-- [Project PRD]()
+Note relevant accessibility, language, device, connectivity, or project requirements.
 
+## Completion and review
+
+- [ ] Describe what will be delivered and how we will check that it meets the need.
