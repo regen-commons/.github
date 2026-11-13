@@ -17,7 +17,7 @@ For the Commons itself, start at [regencommons.com](https://regencommons.com/) o
 | [.github/ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE) | Bug, task, design, research, and proposal templates |
 | [.github/PULL_REQUEST_TEMPLATE.md](.github/PULL_REQUEST_TEMPLATE.md) | A short change and validation summary |
 
-GitHub uses [supported community files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) as defaults where a repository does not provide its own. A repository's own issue templates or chooser configuration replace the shared issue-template set. `GOVERNANCE.md` is linked guidance, not a GitHub-inherited community file. The [MIT license](LICENSE.md) applies to this repository; GitHub does not inherit licenses across repositories.
+GitHub uses [supported community files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) as defaults where a repository does not provide its own. A repository's own issue templates or chooser configuration replace the shared issue-template set. `GOVERNANCE.md` is linked guidance, not a GitHub-inherited community file. Licensing is described [below](#licensing); GitHub does not inherit licenses across repositories.
 
 ## Keeping this useful
 
@@ -29,4 +29,10 @@ GitHub uses [supported community files](https://docs.github.com/en/communities/s
 
 The [October 2026 stewardship update](https://hub.regencoordination.xyz/t/update-from-the-stewardship-council-on-regen-commons-q4-2026/474) provides public context for the current focus. For proposed edits, open an issue or pull request here.
 
-This repository began as a fork of the Greenpill Dev Guild's community files. The original copyright notice remains in [LICENSE.md](LICENSE.md).
+## Licensing
+
+Regen Commons is deferring selection of a replacement license for this repository. The Regen Commons Unified License (RCUL) is a candidate and has not been adopted here. This change grants no replacement license.
+
+The original MIT copyright and permission notice is preserved unchanged in [the upstream notice](notices/upstream-mit.txt). Material previously distributed under MIT, including community files inherited from the Greenpill Dev Guild, remains available under those terms. Removing the root license file does not revoke existing permissions or remove attribution requirements.
+
+Before submitting new material to this repository, agree on its licensing terms with the maintainers. Each other Regen Commons repository or contributed asset retains its own licensing terms.
