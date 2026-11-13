@@ -26,6 +26,6 @@ Maintainers review the contribution and may ask for changes. A merged contributi
 
 If work is funded, agree on scope, reviewer, budget, payment terms, and completion criteria with the responsible project before starting. An issue or pull request alone is not a promise of payment.
 
-Check the receiving repository's license before contributing. Preserve existing copyright notices and attribution. Work on the Regen Commons Unified License does not automatically change the license of any repository or contributed asset.
+Check the receiving repository's license before contributing. For new material submitted to this community-files repository, read its [licensing status](https://github.com/regen-commons/.github/blob/main/README.md#licensing) and agree on terms with the maintainers first. Preserve existing copyright notices and attribution. Work on the Regen Commons Unified License does not automatically change the license of any repository or contributed asset.
 
 Please follow our [code of conduct](https://github.com/regen-commons/.github/blob/main/CODE_OF_CONDUCT.md). Report vulnerabilities through the [security guidance](https://github.com/regen-commons/.github/blob/main/SECURITY.md).
