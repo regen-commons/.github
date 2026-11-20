@@ -9,7 +9,7 @@ This GitHub organization holds software and shared documentation that support th
 ## What we're working on
 
 - **Knowledge people can use.** Connecting research, practical experience, and shared resources so communities can find and learn from one another's work. This includes collaboration with the Regen Knowledge Commons, a related initiative developed by Regen Coordination contributors.
-- **Tools for participation and funding.** Improving our website, member experience, and shared tools, including Funding Commons, a workspace for researching funding opportunities.
+- **Tools for participation and funding.** Improving our website, member experience, and shared tools, including Weave, which helps regenerative initiatives find partners and funding, and Funding Commons, a workspace for researching funding opportunities.
 - **Careful sharing.** Exploring consent, attribution, and reciprocal use of knowledge and other shared assets. The Regen Commons Unified License (RCUL) is part of this developing work; each repository's own license governs its contents.
 - **Relationships and stewardship.** Creating places for people doing regenerative work to meet, share experience, and develop collaborations.
 
@@ -18,7 +18,8 @@ These efforts are at different stages. Each project's README describes its curre
 ## Explore the work
 
 - [Regen Commons website](https://regencommons.com/) · [Website repository](https://github.com/regen-commons/website)
-- [Funding Commons](https://funding-commons.vercel.app/) · [Funding Commons repository](https://github.com/regen-commons/funding-commons)
+- [Weave](https://weave.regencommons.com/) · [Weave repository](https://github.com/regen-commons/weave)
+- [Funding Commons](https://funding-commons.vercel.app/)
 - [Regen Knowledge Commons](https://github.com/regen-coordination/knowledge-commons) — a related project in Regen Coordination's organization.
 
 ## Take part
